@@ -1,0 +1,13 @@
+#Step 1:
+Get database credentials from firestore:
+https://i.imgur.com/ICa5v0F.png
+https://i.imgur.com/CYGb59v.png
+https://i.imgur.com/1GlhLU9.png
+And paste content of the json file into ./databaseCredentials.json
+
+#Step 2:
+Run ./start.bat
+And wait till the program is finished
+
+#Step 3:
+You will find your data in ./data.json
