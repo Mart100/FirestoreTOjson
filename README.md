@@ -7,6 +7,7 @@ Clone/download this repository
 
 ## Step 2:
 Get database credentials from firestore:
+<br>
 ![1](https://i.imgur.com/ICa5v0F.png "Image 1")
 ![2](https://i.imgur.com/CYGb59v.png "Image 2")
 ![3](https://i.imgur.com/1GlhLU9.png "Image 3")
