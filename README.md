@@ -14,8 +14,8 @@ Get database credentials from firestore:
 And paste content of the json file into ./databaseCredentials.json
 
 ## Step 3:
-Run ./start.bat
+Run [Start.bat](./start.bat)
 And wait till the program is finished
 
 ## Step 4:
-You will find your data in ./data.json
+You will find your data in [data.json](./data.json)
